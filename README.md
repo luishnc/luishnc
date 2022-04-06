@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luishnc
+- 👋 Hi, I’m Luis Nasser
 - 👀 I’m interested in game development and software development in general
 - 🌱 I’m currently learning unity
 - 💞️ I’m looking to collaborate on C# projects
